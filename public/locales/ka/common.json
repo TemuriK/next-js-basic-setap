@@ -1,0 +1,55 @@
+{
+  "months": {
+    "January": "იანვარი",
+    "February": "თებერვალი",
+    "March": "მარტი",
+    "April": "აპრილი",
+    "May": "მაისი",
+    "June": "ივნისი",
+    "July": "ივლისი",
+    "August": "აგვისტო",
+    "September": "სექტემბერი",
+    "October": "ოქტომბერი",
+    "November": "ნოემბერი",
+    "December": "დეკემბერი"
+  },
+  "monthsShort": {
+    "January": "იან",
+    "February": "თებ",
+    "March": "მარ",
+    "April": "აპრ",
+    "May": "მაი",
+    "June": "ივნ",
+    "July": "ივლ",
+    "August": "აგვ",
+    "September": "სექ",
+    "October": "ოქტ",
+    "November": "ნოე",
+    "December": "დეკ"
+  },
+  "formValidationErrors": {
+    "required": "შეიყვანე {{field}}",
+    "onlyNumbers": "გამოიყენე მხოლოდ ციფრები",
+    "mobileNumberWithFormats": "შეიყვანე ფორმატით: 5XXXXXXXX ან +XXXXXXXXXXX"
+  },
+  "navigation": {
+    "main": "მთავარი",
+    "aboutUs": "ჩვენ შესახებ",
+    "contact": "კონტაქტი"
+  },
+
+  "metaTags": {
+    "opengraph": {
+      "description": "ციფრული დაკონტრაქტების პლატფორმა",
+      "url": "https://signify.ge/ka/"
+    },
+    "404": {
+      "title": "გვერდი ვერ მოიძებნა",
+      "description": ""
+    },
+    "home": {
+      "title": "დოკუმენტების ციფრული პლატფორმა | Signify",
+      "description": "გააციფრულე დაკონტრაქტება Signify-ზე. შექმენი, გააგზავნე, მოაწერე ხელი და მართე დოკუმენტები ერთ პლატფორმაზე. "
+    }
+  }
+}

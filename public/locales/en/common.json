@@ -1,0 +1,54 @@
+{
+  "months": {
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  },
+  "monthsShort": {
+    "January": "Jan",
+    "February": "Feb",
+    "March": "Mar",
+    "April": "Apr",
+    "May": "May",
+    "June": "Jun",
+    "July": "Jul",
+    "August": "Aug",
+    "September": "Sep",
+    "October": "Oct",
+    "November": "Nov",
+    "December": "Dec"
+  },
+  "formValidationErrors": {
+    "required": "Enter {{field}}",
+    "onlyNumbers": "Use only numbers",
+    "mobileNumberWithFormats": "Enter with format: 5XXXXXXXX or +XXXXXXXXXXX"
+  },
+  "navigation": {
+    "main": "Main",
+    "aboutUs": "About us",
+    "contact": "Contact"
+  },
+  "metaTags": {
+    "opengraph": {
+      "description": "Digital contracting platform",
+      "url": "https://signify.ge/en/"
+    },
+    "404": {
+      "title": "Page not found",
+      "description": ""
+    },
+    "home": {
+      "title": "Document Management Platform | Signify",
+      "description": "Signify offers document management solutions that simplify your workflow. Create, share, e-sign, and manage documents in one place"
+    }
+  }
+}
